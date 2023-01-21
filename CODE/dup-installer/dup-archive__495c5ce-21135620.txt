@@ -1,0 +1,686 @@
+{
+    "dup_type": "lite",
+    "created": "2023-01-21 13:56:20",
+    "version_dup": "1.5.1",
+    "version_wp": "6.1.1",
+    "version_db": "10.6.11",
+    "version_php": "7.4.33",
+    "version_os": "Linux",
+    "blogname": "Simplon Emargement",
+    "exportOnlyDB": 0,
+    "secure_on": false,
+    "secure_pass": "$2a$08$dqTMrIJG7JLtcqWArTBIIegXSuEjZ3g2OW5miz5PBUSD.k9RdVQ9y",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "dbpass": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wpq9_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "emargement.resivoire.com",
+            "path": "\/",
+            "blogname": "Simplon Emargement",
+            "blog_prefix": "wpq9_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "1",
+                    "user_login": "amiraldez",
+                    "id": "1"
+                }
+            ],
+            "fullHomeUrl": "https:\/\/emargement.resivoire.com",
+            "fullSiteUrl": "https:\/\/emargement.resivoire.com",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "\/home\/wqlv4270\/emargement.resivoire.com\/wp-content\/uploads",
+            "fullUploadSafePath": "\/home\/wqlv4270\/emargement.resivoire.com\/wp-content\/uploads",
+            "fullUploadUrl": "https:\/\/emargement.resivoire.com\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "dbInfo": {
+        "buildMode": "MYSQLDUMP",
+        "charSetList": [
+            "utf8mb4"
+        ],
+        "collationList": [
+            "utf8mb4_unicode_520_ci",
+            "utf8mb4_unicode_ci"
+        ],
+        "engineList": [
+            "InnoDB"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "wqlv4270_wp800",
+        "tablesBaseCount": 21,
+        "tablesFinalCount": 21,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 4497,
+        "tablesSizeOnDisk": 12025856,
+        "tablesList": {
+            "wpq9_commentmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpq9_comments": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 98304
+            },
+            "wpq9_duplicator_packages": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wpq9_e_events": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpq9_e_submissions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 294912
+            },
+            "wpq9_e_submissions_actions_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 131072
+            },
+            "wpq9_e_submissions_values": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpq9_jet_cct_enregistrement": {
+                "inaccurateRows": 7,
+                "insertedRows": 8,
+                "size": 16384
+            },
+            "wpq9_jet_post_types": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 16384
+            },
+            "wpq9_jet_smart_filters_indexer": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wpq9_jet_taxonomies": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wpq9_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpq9_options": {
+                "inaccurateRows": 458,
+                "insertedRows": 469,
+                "size": 4292608
+            },
+            "wpq9_postmeta": {
+                "inaccurateRows": 3545,
+                "insertedRows": 3172,
+                "size": 2916352
+            },
+            "wpq9_posts": {
+                "inaccurateRows": 443,
+                "insertedRows": 449,
+                "size": 3735552
+            },
+            "wpq9_termmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 49152
+            },
+            "wpq9_terms": {
+                "inaccurateRows": 3,
+                "insertedRows": 4,
+                "size": 49152
+            },
+            "wpq9_term_relationships": {
+                "inaccurateRows": 8,
+                "insertedRows": 9,
+                "size": 32768
+            },
+            "wpq9_term_taxonomy": {
+                "inaccurateRows": 3,
+                "insertedRows": 4,
+                "size": 49152
+            },
+            "wpq9_usermeta": {
+                "inaccurateRows": 29,
+                "insertedRows": 29,
+                "size": 49152
+            },
+            "wpq9_users": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 65536
+            }
+        },
+        "varLowerCaseTables": "0",
+        "dbEngine": "MariaDB",
+        "version": "10.6.11",
+        "versionComment": "MariaDB Server",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 1,
+        "packageName": "20230121_simplonemargement",
+        "packageHash": "495c5ce-21135620",
+        "secondaryHash": "3e0016a-21135620"
+    },
+    "fileInfo": {
+        "dirCount": 2864,
+        "fileCount": 13751,
+        "size": 85333504
+    },
+    "wpInfo": {
+        "version": "6.1.1",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/home\/wqlv4270\/emargement.resivoire.com",
+        "targetPaths": [
+            "\/home\/wqlv4270\/emargement.resivoire.com"
+        ],
+        "adminUsers": [
+            {
+                "ID": "1",
+                "user_login": "amiraldez",
+                "id": "1"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/home\/wqlv4270\/emargement.resivoire.com\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8mb4",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "9cdkkp1hyvmmlc07iaevvmefh7vewyqok60dgvdky1petm0jsbbupf9trbmwrndm",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "k1wgl5kf6sr3ffa7azezfqofi6xesjepgzius4toxkbusa31fqu7xsnovncubebs",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "vnsg3dpkgsuvxe1br6aapwyrutcnp0dpr2gt3ivyci5efy4jbp75ns6ggo8smcxw",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "7u18rv128lepvvwhdqg292pt7htuq429dkut80grdtvvraiqqdq2r1i4hbsnbypb",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "0gxqugegqggicyf06mecqwn3flvlqkbqyjyuzhabfx2lgnroejk6qd5m9jrnhshq",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "b3h22phllmuguapnuz9kqamxifo0vulxqeitbvfu3gxcqjpv4fdnk6lysllbculw",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "8dydx9ybynxbklhnuofoytut2frn0ddys6mou8nelfd3wf4wvk17ppyloirxxt2g",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "4j61mqrprdoxzygiln78phmcm9mozxxh1zzflznx6wccqwpww3yfrhm3vod7rplz",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/home\/wqlv4270\/emargement.resivoire.com\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "https:\/\/emargement.resivoire.com\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/home\/wqlv4270\/emargement.resivoire.com\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "https:\/\/emargement.resivoire.com\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "4096M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/home\/wqlv4270\/emargement.resivoire.com\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/home\/wqlv4270\/emargement.resivoire.com\/wp-content\/themes\/neve",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/home\/wqlv4270\/emargement.resivoire.com\/wp-content\/themes\/neve",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/home\/wqlv4270\/emargement.resivoire.com\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "https:\/\/emargement.resivoire.com\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "https:\/\/emargement.resivoire.com",
+                "homeUrl": "https:\/\/emargement.resivoire.com",
+                "loginUrl": "https:\/\/emargement.resivoire.com\/amiraldez_1950\/",
+                "contentUrl": "https:\/\/emargement.resivoire.com\/wp-content",
+                "uploadBaseUrl": "https:\/\/emargement.resivoire.com\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/emargement.resivoire.com\/wp-content\/plugins",
+                "mupluginsUrl": "https:\/\/emargement.resivoire.com\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/emargement.resivoire.com\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "\/home\/wqlv4270\/emargement.resivoire.com",
+                    "abs": "\/home\/wqlv4270\/emargement.resivoire.com",
+                    "wpconfig": "\/home\/wqlv4270\/emargement.resivoire.com",
+                    "wpcontent": "\/home\/wqlv4270\/emargement.resivoire.com\/wp-content",
+                    "uploads": "\/home\/wqlv4270\/emargement.resivoire.com\/wp-content\/uploads",
+                    "plugins": "\/home\/wqlv4270\/emargement.resivoire.com\/wp-content\/plugins",
+                    "muplugins": "\/home\/wqlv4270\/emargement.resivoire.com\/wp-content\/mu-plugins",
+                    "themes": "\/home\/wqlv4270\/emargement.resivoire.com\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "\/home\/wqlv4270\/emargement.resivoire.com",
+                    "abs": "\/home\/wqlv4270\/emargement.resivoire.com",
+                    "wpconfig": "\/home\/wqlv4270\/emargement.resivoire.com",
+                    "wpcontent": "\/home\/wqlv4270\/emargement.resivoire.com\/wp-content",
+                    "uploads": "\/home\/wqlv4270\/emargement.resivoire.com\/wp-content\/uploads",
+                    "plugins": "\/home\/wqlv4270\/emargement.resivoire.com\/wp-content\/plugins",
+                    "muplugins": "\/home\/wqlv4270\/emargement.resivoire.com\/wp-content\/mu-plugins",
+                    "themes": "\/home\/wqlv4270\/emargement.resivoire.com\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "akismet\/akismet.php": {
+                "slug": "akismet\/akismet.php",
+                "name": "Akismet Anti-Spam",
+                "version": "5.0.2",
+                "pluginURI": "https:\/\/akismet.com\/",
+                "author": "Automattic",
+                "authorURI": "https:\/\/automattic.com\/wordpress-plugins\/",
+                "description": "Used by millions, Akismet is quite possibly the best way in the world to <strong>protect your blog from spam<\/strong>. It keeps your site protected even while you sleep. To get started: activate the Akismet plugin and then go to your Akismet Settings page to set up your API key.",
+                "title": "Akismet Anti-Spam",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "crocoblock-wizard\/crocoblock-wizard.php": {
+                "slug": "crocoblock-wizard\/crocoblock-wizard.php",
+                "name": "Crocoblock Wizard",
+                "version": "1.2.1",
+                "pluginURI": "https:\/\/crocoblock.com\/",
+                "author": "Crocoblock",
+                "authorURI": "https:\/\/crocoblock.com\/",
+                "description": "A powerful tool to install Crocoblock package, Jet Plugins, export and import skins quick and easy!",
+                "title": "Crocoblock Wizard",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.1",
+                "pluginURI": "https:\/\/snapcreek.com\/duplicator\/duplicator-free\/",
+                "author": "Snap Creek",
+                "authorURI": "http:\/\/www.snapcreek.com\/duplicator\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "elementor\/elementor.php": {
+                "slug": "elementor\/elementor.php",
+                "name": "Elementor",
+                "version": "3.10.1",
+                "pluginURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash",
+                "author": "Elementor.com",
+                "authorURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash",
+                "description": "The Elementor Website Builder has it all: drag and drop page builder, pixel perfect design, mobile responsive editing, and more. Get started now!",
+                "title": "Elementor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "elementor-pro\/elementor-pro.php": {
+                "slug": "elementor-pro\/elementor-pro.php",
+                "name": "Elementor Pro",
+                "version": "3.6.5",
+                "pluginURI": "https:\/\/go.elementor.com\/wp-dash-wp-plugins-author-uri\/",
+                "author": "Elementor.com",
+                "authorURI": "https:\/\/go.elementor.com\/wp-dash-wp-plugins-author-uri\/",
+                "description": "Elevate your designs and unlock the full power of Elementor. Gain access to dozens of Pro widgets and kits, Theme Builder, Pop Ups, Forms and WooCommerce building capabilities.",
+                "title": "Elementor Pro",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "optimole-wp\/optimole-wp.php": {
+                "slug": "optimole-wp\/optimole-wp.php",
+                "name": "Image optimization service by Optimole",
+                "version": "3.5.5",
+                "pluginURI": "",
+                "author": "Optimole",
+                "authorURI": "https:\/\/optimole.com",
+                "description": "Complete handling of your website images.",
+                "title": "Image optimization service by Optimole",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "jet-engine\/jet-engine.php": {
+                "slug": "jet-engine\/jet-engine.php",
+                "name": "JetEngine",
+                "version": "3.1.0-RC2",
+                "pluginURI": "https:\/\/crocoblock.com\/plugins\/jetengine\/",
+                "author": "Crocoblock",
+                "authorURI": "https:\/\/crocoblock.com\/",
+                "description": "The ultimate solution for managing custom post types, taxonomies and meta boxes.",
+                "title": "JetEngine",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "jetpack\/jetpack.php": {
+                "slug": "jetpack\/jetpack.php",
+                "name": "Jetpack",
+                "version": "11.7.1",
+                "pluginURI": "https:\/\/jetpack.com",
+                "author": "Automattic",
+                "authorURI": "https:\/\/jetpack.com",
+                "description": "Security, performance, and marketing tools made by WordPress experts. Jetpack keeps your site protected so you can focus on more important things.",
+                "title": "Jetpack",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "jet-smart-filters\/jet-smart-filters.php": {
+                "slug": "jet-smart-filters\/jet-smart-filters.php",
+                "name": "JetSmartFilters",
+                "version": "3.0.4",
+                "pluginURI": "https:\/\/crocoblock.com\/plugins\/jetsmartfilters\/",
+                "author": "Crocoblock",
+                "authorURI": "https:\/\/crocoblock.com\/",
+                "description": "Adds easy-to-use AJAX filters to the pages built with Elementor which contain the dynamic listings.",
+                "title": "JetSmartFilters",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "jet-tabs\/jet-tabs.php": {
+                "slug": "jet-tabs\/jet-tabs.php",
+                "name": "JetTabs For Elementor",
+                "version": "2.1.20",
+                "pluginURI": "https:\/\/crocoblock.com\/plugins\/jettabs\/",
+                "author": "Crocoblock",
+                "authorURI": "https:\/\/crocoblock.com\/",
+                "description": "JetTabs - Tabs and Accordions for Elementor Page Builder",
+                "title": "JetTabs For Elementor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "otter-blocks\/otter-blocks.php": {
+                "slug": "otter-blocks\/otter-blocks.php",
+                "name": "Otter \u2013 Page Builder Blocks & Extensions for Gutenberg",
+                "version": "2.2.0",
+                "pluginURI": "https:\/\/themeisle.com\/plugins\/otter-blocks",
+                "author": "ThemeIsle",
+                "authorURI": "https:\/\/themeisle.com",
+                "description": "Create beautiful and attracting posts, pages, and landing pages with Otter \u2013 Page Builder Blocks & Extensions for Gutenberg. Otter comes with dozens of Gutenberg blocks that are all you need to build beautiful pages.",
+                "title": "Otter \u2013 Page Builder Blocks & Extensions for Gutenberg",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "templates-patterns-collection\/templates-patterns-collection.php": {
+                "slug": "templates-patterns-collection\/templates-patterns-collection.php",
+                "name": "Templates Patterns Collection",
+                "version": "1.1.32",
+                "pluginURI": "",
+                "author": "ThemeIsle",
+                "authorURI": "https:\/\/themeisle.com",
+                "description": "This plugin is an add-on to Neve WordPress theme which offers access to Templates and Block Patterns library service to be used with the theme.",
+                "title": "Templates Patterns Collection",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "the-plus-addons-for-elementor-page-builder\/theplus_elementor_addon.php": {
+                "slug": "the-plus-addons-for-elementor-page-builder\/theplus_elementor_addon.php",
+                "name": "The Plus Addons for Elementor",
+                "version": "5.1.15",
+                "pluginURI": "https:\/\/theplusaddons.com\/",
+                "author": "POSIMYTH",
+                "authorURI": "https:\/\/posimyth.com\/",
+                "description": "Biggest collection of Widgets & Features to supercharge your Elementor Page builder in WordPress.",
+                "title": "The Plus Addons for Elementor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "theplus_elementor_addon\/theplus_elementor_addon.php": {
+                "slug": "theplus_elementor_addon\/theplus_elementor_addon.php",
+                "name": "The Plus Addons for Elementor - Pro",
+                "version": "5.1.4",
+                "pluginURI": "https:\/\/theplusaddons.com\/",
+                "author": "POSIMYTH",
+                "authorURI": "https:\/\/posimyth.com\/",
+                "description": "Ultimate collection of Addons for Elementor Page Builder and proudly developed by POSIMYTH Team.",
+                "title": "The Plus Addons for Elementor - Pro",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wps-hide-login\/wps-hide-login.php": {
+                "slug": "wps-hide-login\/wps-hide-login.php",
+                "name": "WPS Hide Login",
+                "version": "1.9.6",
+                "pluginURI": "",
+                "author": "WPServeur, NicolasKulka, wpformation",
+                "authorURI": "https:\/\/wpserveur.net",
+                "description": "Protect your website by changing the login URL and preventing access to wp-login.php page and wp-admin directory while not logged-in",
+                "title": "WPS Hide Login",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            }
+        },
+        "themes": {
+            "neve": {
+                "slug": "neve",
+                "themeName": "Neve",
+                "version": "3.4.10",
+                "themeURI": "https:\/\/themeisle.com\/themes\/neve\/",
+                "parentTheme": false,
+                "template": "neve",
+                "stylesheet": "neve",
+                "description": "Neve is a super fast, easily customizable, multi-purpose theme. It\u2019s perfect for blogs, small business, startups, agencies, firms, e-commerce shops (WooCommerce storefront) as well as personal portfolio sites and most types of projects. A fully AMP optimized and responsive theme, Neve will load in mere seconds and adapt perfectly on any viewing device. While it is lightweight and has a minimalist design, the theme is highly extendable, it has a highly SEO optimized code, resulting in top rankings in Google search results. Neve works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi). Neve is also WooCommerce ready, responsive, RTL &amp; translation ready. Look no further. Neve is the perfect theme for you!",
+                "author": "ThemeIsle",
+                "authorURI": "https:\/\/themeisle.com",
+                "tags": [
+                    "blog",
+                    "custom-logo",
+                    "e-commerce",
+                    "rtl-language-support",
+                    "grid-layout",
+                    "one-column",
+                    "two-columns",
+                    "custom-background",
+                    "custom-colors",
+                    "custom-header",
+                    "custom-menu",
+                    "featured-image-header",
+                    "featured-images",
+                    "flexible-header",
+                    "full-width-template",
+                    "sticky-post",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready",
+                    "accessibility-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "footer-widgets",
+                    "portfolio",
+                    "left-sidebar",
+                    "right-sidebar"
+                ],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            }
+        }
+    },
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": "Simplon Emargement"
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "20230121_simplonemargement_495c5ceef105a9f69994_20230121135620_installer-backup.php",
+    "package_name": "20230121_simplonemargement_495c5ceef105a9f69994_20230121135620_archive.zip",
+    "package_hash": "495c5ce-21135620",
+    "package_notes": ""
+}

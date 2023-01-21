@@ -1,0 +1,24 @@
+[20/Jan/2023:22:43:28] (I): WordPress Instance Info:
+[20/Jan/2023:22:43:28] (I): Home URL : https://emargement.resivoire.com
+[20/Jan/2023:22:43:28] (I): Site URL : https://emargement.resivoire.com
+[20/Jan/2023:22:43:28] (I): WordPress Version : 6.1.1
+[20/Jan/2023:22:43:28] (I): Onboarding Version : 1.1.32
+[20/Jan/2023:22:43:28] (I): Multisite : No
+[20/Jan/2023:22:43:28] (I): Server Info : Apache
+[20/Jan/2023:22:43:28] (I): PHP Version : 7.4.33
+[20/Jan/2023:22:43:28] (I): HTTPS : Yes
+[20/Jan/2023:22:43:28] (I): PHP Max Execution Time : 360
+[20/Jan/2023:22:43:28] (I): PHP Max Input Vars : 2000000
+[20/Jan/2023:22:43:28] (I): Max Upload Size : 536870912
+[20/Jan/2023:22:43:28] (I): Plugins:
+[20/Jan/2023:22:43:28] (I): [PLUGIN] Akismet Anti-Spam : v5.0.2 (Automattic)
+[20/Jan/2023:22:43:28] (I): [PLUGIN] Elementor Pro : v3.6.5 (Elementor.com)
+[20/Jan/2023:22:43:28] (I): [PLUGIN] Elementor : v3.10.1 (Elementor.com)
+[20/Jan/2023:22:43:28] (I): [PLUGIN] JetEngine : v3.1.0-RC2 (Crocoblock)
+[20/Jan/2023:22:43:28] (I): [PLUGIN] Otter – Page Builder Blocks &amp; Extensions for Gutenberg : v2.2.0 (ThemeIsle)
+[20/Jan/2023:22:43:28] (I): [PLUGIN] Templates Patterns Collection : v1.1.32 (ThemeIsle)
+[20/Jan/2023:22:43:28] (I): [PLUGIN] The Plus Addons for Elementor : v5.1.15 (POSIMYTH)
+[20/Jan/2023:22:43:28] (I): [PLUGIN] The Plus Addons for Elementor - Pro : v5.1.4 (POSIMYTH)
+[20/Jan/2023:22:43:28] (P): Installing optimole-wp.
+[20/Jan/2023:22:43:30] (P): Activating optimole-wp.
+[20/Jan/2023:22:43:30] (S): Installed and activated plugins.
